@@ -1,0 +1,6 @@
+baseURL = "http://twindadblog.s3-website-us-east-1.amazonaws.com/"
+languageCode = "en-us"
+title = "Twin Dad"
+indexHeadline = "Staying alive with double trouble"
+theme = "paper"
+disqusShortname = "twin-dad"
